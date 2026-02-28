@@ -6,17 +6,44 @@
 	objectVersion = 77;
 	objects = {
 
-/* Begin PBXFileReference section */
-		61322EBD2F5374D200C0AB2B /* Aether.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Aether.app; sourceTree = BUILT_PRODUCTS_DIR; };
-/* End PBXFileReference section */
+/* Begin PBXBuildFile section */
+		61322EC12F5374D200C0AB2B /* AetherApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61322EC02F5374D200C0AB2B /* AetherApp.swift */; };
+		61322EC52F5374D300C0AB2B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 61322EC42F5374D300C0AB2B /* Assets.xcassets */; };
+		61322ED72F53795100C0AB2B /* AetherIntents.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61322ED62F53795100C0AB2B /* AetherIntents.swift */; };
+		61322EE62F537CFB00C0AB2B /* UserProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61322EE52F537A4D00C0AB2B /* UserProfile.swift */; };
+		61322EE72F537D0000C0AB2B /* EducationalConcept.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61322EDB2F5379BA00C0AB2B /* EducationalConcept.swift */; };
+		61322EE82F537D0500C0AB2B /* ConceptsManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61322ED92F53798400C0AB2B /* ConceptsManager.swift */; };
+		61322EE92F537D0900C0AB2B /* RootView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61322EE02F537A0000C0AB2B /* RootView.swift */; };
+		61322EEA2F537D0E00C0AB2B /* MainTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61322EDE2F5379DC00C0AB2B /* MainTabView.swift */; };
+		61322EEB2F537D1300C0AB2B /* CosmicBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61322EDA2F5379A300C0AB2B /* CosmicBackground.swift */; };
+		61322EEC2F537D1700C0AB2B /* ConceptAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61322ED82F53797100C0AB2B /* ConceptAnimationView.swift */; };
+		61322EED2F537D1B00C0AB2B /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61322EE12F537A0900C0AB2B /* SettingsView.swift */; };
+		61322EEE2F537D1F00C0AB2B /* FavoritesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61322EDC2F5379C700C0AB2B /* FavoritesView.swift */; };
+		61322EEF2F537D2400C0AB2B /* FeedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61322EDD2F5379D000C0AB2B /* FeedView.swift */; };
+		61322EF02F537D2900C0AB2B /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61322EDF2F5379F100C0AB2B /* OnboardingView.swift */; };
+		61322EF12F537D2E00C0AB2B /* SupernovaOverlayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61322EE42F537A4000C0AB2B /* SupernovaOverlayView.swift */; };
+		61322EF22F537D3200C0AB2B /* SpacetimeLabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61322EE22F537A1700C0AB2B /* SpacetimeLabView.swift */; };
+/* End PBXBuildFile section */
 
-/* Begin PBXFileSystemSynchronizedRootGroup section */
-		61322EBF2F5374D200C0AB2B /* Aether */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Aether;
-			sourceTree = "<group>";
-		};
-/* End PBXFileSystemSynchronizedRootGroup section */
+/* Begin PBXFileReference section */
+		61322EBD2F5374D200C0AB2B /* Aether.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = Aether.app; path = "/Users/vedpatel/Documents/Aether/build/Debug-iphoneos/Aether.app"; sourceTree = "<absolute>"; };
+		61322EC02F5374D200C0AB2B /* AetherApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AetherApp.swift; sourceTree = "<group>"; };
+		61322EC42F5374D300C0AB2B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		61322ED62F53795100C0AB2B /* AetherIntents.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AetherIntents.swift; sourceTree = "<group>"; };
+		61322ED82F53797100C0AB2B /* ConceptAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConceptAnimationView.swift; sourceTree = "<group>"; };
+		61322ED92F53798400C0AB2B /* ConceptsManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConceptsManager.swift; sourceTree = "<group>"; };
+		61322EDA2F5379A300C0AB2B /* CosmicBackground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CosmicBackground.swift; sourceTree = "<group>"; };
+		61322EDB2F5379BA00C0AB2B /* EducationalConcept.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EducationalConcept.swift; sourceTree = "<group>"; };
+		61322EDC2F5379C700C0AB2B /* FavoritesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesView.swift; sourceTree = "<group>"; };
+		61322EDD2F5379D000C0AB2B /* FeedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedView.swift; sourceTree = "<group>"; };
+		61322EDE2F5379DC00C0AB2B /* MainTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabView.swift; sourceTree = "<group>"; };
+		61322EDF2F5379F100C0AB2B /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		61322EE02F537A0000C0AB2B /* RootView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootView.swift; sourceTree = "<group>"; };
+		61322EE12F537A0900C0AB2B /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		61322EE22F537A1700C0AB2B /* SpacetimeLabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacetimeLabView.swift; sourceTree = "<group>"; };
+		61322EE42F537A4000C0AB2B /* SupernovaOverlayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SupernovaOverlayView.swift; sourceTree = "<group>"; };
+		61322EE52F537A4D00C0AB2B /* UserProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProfile.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		61322EBA2F5374D200C0AB2B /* Frameworks */ = {
@@ -32,17 +59,111 @@
 		61322EB42F5374D200C0AB2B = {
 			isa = PBXGroup;
 			children = (
-				61322EBF2F5374D200C0AB2B /* Aether */,
-				61322EBE2F5374D200C0AB2B /* Products */,
+				61322EC02F5374D200C0AB2B /* AetherApp.swift */,
+				61322ECC2F53769600C0AB2B /* Models */,
+				61322ECD2F5376A100C0AB2B /* Managers */,
+				61322EF32F53838C00C0AB2B /* Resources */,
+				61322ECE2F5376B200C0AB2B /* Views */,
+				61322ECF2F5376F400C0AB2B /* PhysicsLab */,
+				61322ED02F5376FE00C0AB2B /* Intents */,
 			);
 			sourceTree = "<group>";
 		};
-		61322EBE2F5374D200C0AB2B /* Products */ = {
+		61322ECC2F53769600C0AB2B /* Models */ = {
 			isa = PBXGroup;
 			children = (
-				61322EBD2F5374D200C0AB2B /* Aether.app */,
+				61322EE52F537A4D00C0AB2B /* UserProfile.swift */,
+				61322EDB2F5379BA00C0AB2B /* EducationalConcept.swift */,
 			);
-			name = Products;
+			path = Models;
+			sourceTree = "<group>";
+		};
+		61322ECD2F5376A100C0AB2B /* Managers */ = {
+			isa = PBXGroup;
+			children = (
+				61322ED92F53798400C0AB2B /* ConceptsManager.swift */,
+			);
+			path = Managers;
+			sourceTree = "<group>";
+		};
+		61322ECE2F5376B200C0AB2B /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				61322EE02F537A0000C0AB2B /* RootView.swift */,
+				61322EDE2F5379DC00C0AB2B /* MainTabView.swift */,
+				61322ED52F53779600C0AB2B /* Components */,
+				61322ED42F53777800C0AB2B /* Settings */,
+				61322ED32F53776100C0AB2B /* Favorites */,
+				61322ED22F53775800C0AB2B /* Feed */,
+				61322ED12F53774C00C0AB2B /* Onboarding */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		61322ECF2F5376F400C0AB2B /* PhysicsLab */ = {
+			isa = PBXGroup;
+			children = (
+				61322EE42F537A4000C0AB2B /* SupernovaOverlayView.swift */,
+				61322EE22F537A1700C0AB2B /* SpacetimeLabView.swift */,
+			);
+			path = PhysicsLab;
+			sourceTree = "<group>";
+		};
+		61322ED02F5376FE00C0AB2B /* Intents */ = {
+			isa = PBXGroup;
+			children = (
+				61322ED62F53795100C0AB2B /* AetherIntents.swift */,
+			);
+			path = Intents;
+			sourceTree = "<group>";
+		};
+		61322ED12F53774C00C0AB2B /* Onboarding */ = {
+			isa = PBXGroup;
+			children = (
+				61322EDF2F5379F100C0AB2B /* OnboardingView.swift */,
+			);
+			path = Onboarding;
+			sourceTree = "<group>";
+		};
+		61322ED22F53775800C0AB2B /* Feed */ = {
+			isa = PBXGroup;
+			children = (
+				61322EDD2F5379D000C0AB2B /* FeedView.swift */,
+			);
+			path = Feed;
+			sourceTree = "<group>";
+		};
+		61322ED32F53776100C0AB2B /* Favorites */ = {
+			isa = PBXGroup;
+			children = (
+				61322EDC2F5379C700C0AB2B /* FavoritesView.swift */,
+			);
+			path = Favorites;
+			sourceTree = "<group>";
+		};
+		61322ED42F53777800C0AB2B /* Settings */ = {
+			isa = PBXGroup;
+			children = (
+				61322EE12F537A0900C0AB2B /* SettingsView.swift */,
+			);
+			path = Settings;
+			sourceTree = "<group>";
+		};
+		61322ED52F53779600C0AB2B /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				61322EDA2F5379A300C0AB2B /* CosmicBackground.swift */,
+				61322ED82F53797100C0AB2B /* ConceptAnimationView.swift */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		61322EF32F53838C00C0AB2B /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				61322EC42F5374D300C0AB2B /* Assets.xcassets */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -59,9 +180,6 @@
 			buildRules = (
 			);
 			dependencies = (
-			);
-			fileSystemSynchronizedGroups = (
-				61322EBF2F5374D200C0AB2B /* Aether */,
 			);
 			name = Aether;
 			packageProductDependencies = (
@@ -95,7 +213,7 @@
 			mainGroup = 61322EB42F5374D200C0AB2B;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 61322EBE2F5374D200C0AB2B /* Products */;
+			productRefGroup = 61322EB42F5374D200C0AB2B;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -109,6 +227,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				61322EC52F5374D300C0AB2B /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -119,6 +238,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				61322EF12F537D2E00C0AB2B /* SupernovaOverlayView.swift in Sources */,
+				61322EE82F537D0500C0AB2B /* ConceptsManager.swift in Sources */,
+				61322EE62F537CFB00C0AB2B /* UserProfile.swift in Sources */,
+				61322EE72F537D0000C0AB2B /* EducationalConcept.swift in Sources */,
+				61322EEA2F537D0E00C0AB2B /* MainTabView.swift in Sources */,
+				61322EEB2F537D1300C0AB2B /* CosmicBackground.swift in Sources */,
+				61322EF22F537D3200C0AB2B /* SpacetimeLabView.swift in Sources */,
+				61322EE92F537D0900C0AB2B /* RootView.swift in Sources */,
+				61322ED72F53795100C0AB2B /* AetherIntents.swift in Sources */,
+				61322EEE2F537D1F00C0AB2B /* FavoritesView.swift in Sources */,
+				61322EEC2F537D1700C0AB2B /* ConceptAnimationView.swift in Sources */,
+				61322EEF2F537D2400C0AB2B /* FeedView.swift in Sources */,
+				61322EC12F5374D200C0AB2B /* AetherApp.swift in Sources */,
+				61322EED2F537D1B00C0AB2B /* SettingsView.swift in Sources */,
+				61322EF02F537D2900C0AB2B /* OnboardingView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
