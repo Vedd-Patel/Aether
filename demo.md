@@ -1,9 +1,12 @@
 # Sherlock Chain Analysis Report
 
-**Source file:** `blk05051.dat`  
-**Generated:** 2026-03-14 16:57:34 UTC  
-**Blocks in file:** 78  
-**Total transactions analyzed:** 256523  
+**Source file:** `blk05051.dat`
+
+**Generated:** 2026-03-14 17:02:32 UTC
+
+**Blocks in file:** 78
+
+**Total transactions analyzed:** 256523
 
 ---
 
@@ -58,19 +61,19 @@
 | 3 | `raw:4ec1081e5074` | 30 | 13 |
 | 4 | `raw:e3bcf3bf0ded` | 24 | 1 |
 | 5 | `wpkh:f98402e7622` | 15 | 2 |
-| 6 | `pkh:ec691c0014a3` | 14 | 1 |
-| 7 | `raw:29368408ae31` | 14 | 1 |
+| 6 | `raw:29368408ae31` | 14 | 1 |
+| 7 | `pkh:ec691c0014a3` | 14 | 1 |
 | 8 | `raw:001e312697b7` | 9 | 1 |
-| 9 | `raw:b570bfe7d59a` | 8 | 1 |
-| 10 | `raw:b2b401eddd7a` | 8 | 1 |
-| 11 | `raw:173953eddd66` | 8 | 1 |
-| 12 | `raw:1c001427ac4d` | 8 | 1 |
-| 13 | `raw:8c0c97933b1b` | 8 | 1 |
-| 14 | `raw:e287b423dccd` | 8 | 1 |
-| 15 | `raw:7297005c9582` | 7 | 1 |
-| 16 | `raw:008697651c00` | 7 | 1 |
+| 9 | `raw:173953eddd66` | 8 | 1 |
+| 10 | `raw:8c0c97933b1b` | 8 | 1 |
+| 11 | `raw:1c001427ac4d` | 8 | 1 |
+| 12 | `raw:e287b423dccd` | 8 | 1 |
+| 13 | `raw:b2b401eddd7a` | 8 | 1 |
+| 14 | `raw:b570bfe7d59a` | 8 | 1 |
+| 15 | `raw:98edcb440089` | 7 | 1 |
+| 16 | `raw:7297005c9582` | 7 | 1 |
 | 17 | `raw:044d7542fd81` | 7 | 1 |
-| 18 | `raw:98edcb440089` | 7 | 1 |
+| 18 | `raw:008697651c00` | 7 | 1 |
 | 19 | `raw:b7e9343d11eb` | 6 | 1 |
 | 20 | `pkh:2f1c0014ff65` | 6 | 1 |
 
@@ -78,7 +81,7 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ### Top 5 Cluster Address Samples
 
-**Cluster #1** (`raw:ea03373a5773`) — 4521 addresses, 31487 transactions  
+**Cluster #1** (`raw:ea03373a5773`) — 4521 addresses, 31487 transactions
 - `pkh:04d301edde120081e089b4db2300adfb8786f190`
 - `pkh:0a28512009924b06c943891d15dee96b64f1a973`
 - `pkh:0c285120cda36b2e4db5ec4c48a2cfa668a83ed8`
@@ -86,7 +89,7 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 - `pkh:0d285120fcbf535dec936229af496258fb4c8c05`
 - _… 4516 more addresses_
 
-**Cluster #2** (`raw:4cfb09887eda`) — 37 addresses, 37 transactions  
+**Cluster #2** (`raw:4cfb09887eda`) — 37 addresses, 37 transactions
 - `raw:4cfb09887edacde49762a0a0f68066d534189bdf916800a52f28512036495ecc`
 - `raw:4cfb09887edacde49762a0a0f68066d534189bdf917600a52f28512036495ecc`
 - `raw:4cfb09887edacde49762a0a0f68066d534189bdf917800a52f28512036495ecc`
@@ -94,7 +97,7 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 - `raw:4cfb09887edacde49762a0a0f68066d534189bdf9f4600a52f28512036495ecc`
 - _… 32 more addresses_
 
-**Cluster #3** (`raw:4ec1081e5074`) — 30 addresses, 13 transactions  
+**Cluster #3** (`raw:4ec1081e5074`) — 30 addresses, 13 transactions
 - `raw:1ca4ed9730008124285120bac79fbf9313b2041d9cc9e1fe407d6a4d1d33a449`
 - `raw:1ca4edaf18008124285120bac79fbf9313b2041d9cc9e1fe407d6a4d1d33a449`
 - `raw:1ca4edaf34008124285120bac79fbf9313b2041d9cc9e1fe407d6a4d1d33a449`
@@ -102,7 +105,7 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 - `raw:1ca4edb778008124285120bac79fbf9313b2041d9cc9e1fe407d6a4d1d33a449`
 - _… 25 more addresses_
 
-**Cluster #4** (`raw:e3bcf3bf0ded`) — 24 addresses, 1 transactions  
+**Cluster #4** (`raw:e3bcf3bf0ded`) — 24 addresses, 1 transactions
 - `raw:5be3bcf3bf0dedaa6200a8ae1f1c00145fbae474d68929801084f1`
 - `raw:5be3bcf3bf0dedae5000a8be671c00145fbae474d68929801084f1`
 - `raw:5be3bcf3bf0dedae5000a8fe0b1c00145fbae474d68929801084f1`
@@ -110,7 +113,7 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 - `raw:5be3bcf3bf0dedb36000acff2f1c00145fbae474d68929801084f1`
 - _… 19 more addresses_
 
-**Cluster #5** (`wpkh:f98402e7622`) — 15 addresses, 2 transactions  
+**Cluster #5** (`wpkh:f98402e7622`) — 15 addresses, 2 transactions
 - `raw:0081d11b2851208329bcb1ac4f7f1f9f2bf5caccb5c6a71c11608dd450b3b7d1`
 - `raw:1c0014f98402e76220080cf9247d2c21ddd314af558b99ed82600081241c0014`
 - `raw:1c0014f98402e76220080cf9247d2c21ddd314af558b99ed8b100081241c0014`
@@ -122,10 +125,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907139
 
-**Block Hash:** `0000000000000000000075a3f6e5fdb1993c1ad03b3cd8e033eeacfd63316e11`  
-**Height:** 907139  
-**Transactions:** 3056  
-**Flagged:** 2150 (70.4%)  
+**Block Hash:** `0000000000000000000075a3f6e5fdb1993c1ad03b3cd8e033eeacfd63316e11`
+
+**Height:** 907139
+
+**Transactions:** 3056
+
+**Flagged:** 2150 (70.4%)
 
 ### Heuristic Findings
 
@@ -190,10 +196,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907163
 
-**Block Hash:** `0000000000000000000057b3b8c86beb357f225e3d0402bb1d620f71cfc847b2`  
-**Height:** 907163  
-**Transactions:** 3981  
-**Flagged:** 3084 (77.5%)  
+**Block Hash:** `0000000000000000000057b3b8c86beb357f225e3d0402bb1d620f71cfc847b2`
+
+**Height:** 907163
+
+**Transactions:** 3981
+
+**Flagged:** 3084 (77.5%)
 
 ### Heuristic Findings
 
@@ -204,7 +213,7 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 | `address_reuse` | 0 | 0.0% |
 | `coinjoin` | 40 | 1.0% |
 | `consolidation` | 131 | 3.3% |
-| `self_transfer` | 9 | 0.2% |
+| `self_transfer` | 10 | 0.3% |
 | `peeling_chain` | 1739 | 43.7% |
 | `op_return` | 89 | 2.2% |
 | `round_number_payment` | 538 | 13.5% |
@@ -259,10 +268,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907155
 
-**Block Hash:** `0000000000000000000091a00c78db1709fcda19ade3aa219d236cb2353749fe`  
-**Height:** 907155  
-**Transactions:** 3960  
-**Flagged:** 3221 (81.3%)  
+**Block Hash:** `0000000000000000000091a00c78db1709fcda19ade3aa219d236cb2353749fe`
+
+**Height:** 907155
+
+**Transactions:** 3960
+
+**Flagged:** 3221 (81.3%)
 
 ### Heuristic Findings
 
@@ -328,10 +340,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907142
 
-**Block Hash:** `000000000000000000020889ea22c15d7c74dd329db8a7e58ec798653d05b37f`  
-**Height:** 907142  
-**Transactions:** 443  
-**Flagged:** 286 (64.6%)  
+**Block Hash:** `000000000000000000020889ea22c15d7c74dd329db8a7e58ec798653d05b37f`
+
+**Height:** 907142
+
+**Transactions:** 443
+
+**Flagged:** 286 (64.6%)
 
 ### Heuristic Findings
 
@@ -397,17 +412,20 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907141
 
-**Block Hash:** `00000000000000000001c6ec635f239ddd638c23661ff739730b833b0b0cdb07`  
-**Height:** 907141  
-**Transactions:** 1566  
-**Flagged:** 1190 (76.0%)  
+**Block Hash:** `00000000000000000001c6ec635f239ddd638c23661ff739730b833b0b0cdb07`
+
+**Height:** 907141
+
+**Transactions:** 1566
+
+**Flagged:** 1190 (76.0%)
 
 ### Heuristic Findings
 
 | Heuristic | Fired On (txs) | % of Block |
 |-----------|---------------|------------|
 | `cioh` | 392 | 25.0% |
-| `change_detection` | 1043 | 66.6% |
+| `change_detection` | 1044 | 66.7% |
 | `address_reuse` | 0 | 0.0% |
 | `coinjoin` | 23 | 1.5% |
 | `consolidation` | 55 | 3.5% |
@@ -466,10 +484,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907170
 
-**Block Hash:** `00000000000000000001ce6e85caa9bc91a698e85b77c6b875e1b5984ec1db5d`  
-**Height:** 907170  
-**Transactions:** 2966  
-**Flagged:** 2306 (77.7%)  
+**Block Hash:** `00000000000000000001ce6e85caa9bc91a698e85b77c6b875e1b5984ec1db5d`
+
+**Height:** 907170
+
+**Transactions:** 2966
+
+**Flagged:** 2306 (77.7%)
 
 ### Heuristic Findings
 
@@ -480,7 +501,7 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 | `address_reuse` | 0 | 0.0% |
 | `coinjoin` | 22 | 0.7% |
 | `consolidation` | 107 | 3.6% |
-| `self_transfer` | 8 | 0.3% |
+| `self_transfer` | 9 | 0.3% |
 | `peeling_chain` | 1195 | 40.3% |
 | `op_return` | 210 | 7.1% |
 | `round_number_payment` | 356 | 12.0% |
@@ -535,10 +556,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907158
 
-**Block Hash:** `000000000000000000018e1ee0e668a27279ded3816a8075eaf0489438ba049c`  
-**Height:** 907158  
-**Transactions:** 2711  
-**Flagged:** 1985 (73.2%)  
+**Block Hash:** `000000000000000000018e1ee0e668a27279ded3816a8075eaf0489438ba049c`
+
+**Height:** 907158
+
+**Transactions:** 2711
+
+**Flagged:** 1985 (73.2%)
 
 ### Heuristic Findings
 
@@ -603,10 +627,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907154
 
-**Block Hash:** `00000000000000000001634942d8a0410e1b38f49756b7fd078ecf436f0fbfe4`  
-**Height:** 907154  
-**Transactions:** 3752  
-**Flagged:** 3008 (80.2%)  
+**Block Hash:** `00000000000000000001634942d8a0410e1b38f49756b7fd078ecf436f0fbfe4`
+
+**Height:** 907154
+
+**Transactions:** 3752
+
+**Flagged:** 3008 (80.2%)
 
 ### Heuristic Findings
 
@@ -672,10 +699,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907167
 
-**Block Hash:** `0000000000000000000074298f91afa3644a47ed1e2f1a9e9692603e27dfdae7`  
-**Height:** 907167  
-**Transactions:** 2930  
-**Flagged:** 2222 (75.8%)  
+**Block Hash:** `0000000000000000000074298f91afa3644a47ed1e2f1a9e9692603e27dfdae7`
+
+**Height:** 907167
+
+**Transactions:** 2930
+
+**Flagged:** 2222 (75.8%)
 
 ### Heuristic Findings
 
@@ -741,10 +771,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907112
 
-**Block Hash:** `0000000000000000000018dd20562a601f8dafd5207663f4803da66119d6dc36`  
-**Height:** 907112  
-**Transactions:** 3449  
-**Flagged:** 2934 (85.1%)  
+**Block Hash:** `0000000000000000000018dd20562a601f8dafd5207663f4803da66119d6dc36`
+
+**Height:** 907112
+
+**Transactions:** 3449
+
+**Flagged:** 2934 (85.1%)
 
 ### Heuristic Findings
 
@@ -810,10 +843,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907164
 
-**Block Hash:** `000000000000000000015783954bc152771d5b1e61520a3c7c9c6e0821a342d0`  
-**Height:** 907164  
-**Transactions:** 3826  
-**Flagged:** 2970 (77.6%)  
+**Block Hash:** `000000000000000000015783954bc152771d5b1e61520a3c7c9c6e0821a342d0`
+
+**Height:** 907164
+
+**Transactions:** 3826
+
+**Flagged:** 2970 (77.6%)
 
 ### Heuristic Findings
 
@@ -878,10 +914,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907132
 
-**Block Hash:** `000000000000000000002591806596dcbebe67854f12fdb8040cc405fc77f8d4`  
-**Height:** 907132  
-**Transactions:** 2848  
-**Flagged:** 2260 (79.4%)  
+**Block Hash:** `000000000000000000002591806596dcbebe67854f12fdb8040cc405fc77f8d4`
+
+**Height:** 907132
+
+**Transactions:** 2848
+
+**Flagged:** 2260 (79.4%)
 
 ### Heuristic Findings
 
@@ -947,10 +986,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907149
 
-**Block Hash:** `00000000000000000001345218e06d3fa91b5fd486ca85e6ca4b6ab4ebddfa20`  
-**Height:** 907149  
-**Transactions:** 1056  
-**Flagged:** 798 (75.6%)  
+**Block Hash:** `00000000000000000001345218e06d3fa91b5fd486ca85e6ca4b6ab4ebddfa20`
+
+**Height:** 907149
+
+**Transactions:** 1056
+
+**Flagged:** 798 (75.6%)
 
 ### Heuristic Findings
 
@@ -1016,10 +1058,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907161
 
-**Block Hash:** `00000000000000000001f071ba228d38ddd0e9c4536f7fd622906899bb16b491`  
-**Height:** 907161  
-**Transactions:** 2432  
-**Flagged:** 1898 (78.0%)  
+**Block Hash:** `00000000000000000001f071ba228d38ddd0e9c4536f7fd622906899bb16b491`
+
+**Height:** 907161
+
+**Transactions:** 2432
+
+**Flagged:** 1898 (78.0%)
 
 ### Heuristic Findings
 
@@ -1085,10 +1130,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907156
 
-**Block Hash:** `000000000000000000002fa3a6a72e34baf68f9d612c0ceee7b4926a7a18b88a`  
-**Height:** 907156  
-**Transactions:** 3977  
-**Flagged:** 2905 (73.0%)  
+**Block Hash:** `000000000000000000002fa3a6a72e34baf68f9d612c0ceee7b4926a7a18b88a`
+
+**Height:** 907156
+
+**Transactions:** 3977
+
+**Flagged:** 2905 (73.0%)
 
 ### Heuristic Findings
 
@@ -1154,10 +1202,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907177
 
-**Block Hash:** `0000000000000000000082b29270c750e1f85c7cc352f0d69c684b7d480fee34`  
-**Height:** 907177  
-**Transactions:** 2202  
-**Flagged:** 1749 (79.4%)  
+**Block Hash:** `0000000000000000000082b29270c750e1f85c7cc352f0d69c684b7d480fee34`
+
+**Height:** 907177
+
+**Transactions:** 2202
+
+**Flagged:** 1749 (79.4%)
 
 ### Heuristic Findings
 
@@ -1223,10 +1274,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907175
 
-**Block Hash:** `0000000000000000000080d5414ad82a5b7e077677aa3461aca6e2c93d210285`  
-**Height:** 907175  
-**Transactions:** 139  
-**Flagged:** 108 (77.7%)  
+**Block Hash:** `0000000000000000000080d5414ad82a5b7e077677aa3461aca6e2c93d210285`
+
+**Height:** 907175
+
+**Transactions:** 139
+
+**Flagged:** 108 (77.7%)
 
 ### Heuristic Findings
 
@@ -1291,10 +1345,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907180
 
-**Block Hash:** `000000000000000000021712f9c4214e8afd0b3dd6866ff58c2e113e8e497b9c`  
-**Height:** 907180  
-**Transactions:** 3021  
-**Flagged:** 2248 (74.4%)  
+**Block Hash:** `000000000000000000021712f9c4214e8afd0b3dd6866ff58c2e113e8e497b9c`
+
+**Height:** 907180
+
+**Transactions:** 3021
+
+**Flagged:** 2248 (74.4%)
 
 ### Heuristic Findings
 
@@ -1359,10 +1416,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907162
 
-**Block Hash:** `00000000000000000001f58f3bf367d4a1815dcb6e6125e97fc227c3098767bc`  
-**Height:** 907162  
-**Transactions:** 3187  
-**Flagged:** 2325 (73.0%)  
+**Block Hash:** `00000000000000000001f58f3bf367d4a1815dcb6e6125e97fc227c3098767bc`
+
+**Height:** 907162
+
+**Transactions:** 3187
+
+**Flagged:** 2325 (73.0%)
 
 ### Heuristic Findings
 
@@ -1373,7 +1433,7 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 | `address_reuse` | 0 | 0.0% |
 | `coinjoin` | 25 | 0.8% |
 | `consolidation` | 93 | 2.9% |
-| `self_transfer` | 16 | 0.5% |
+| `self_transfer` | 15 | 0.5% |
 | `peeling_chain` | 1292 | 40.5% |
 | `op_return` | 85 | 2.7% |
 | `round_number_payment` | 357 | 11.2% |
@@ -1428,10 +1488,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907166
 
-**Block Hash:** `00000000000000000000a83ed2cc206638efbff1de54b374edf9b27a2b6bfe65`  
-**Height:** 907166  
-**Transactions:** 2942  
-**Flagged:** 2069 (70.3%)  
+**Block Hash:** `00000000000000000000a83ed2cc206638efbff1de54b374edf9b27a2b6bfe65`
+
+**Height:** 907166
+
+**Transactions:** 2942
+
+**Flagged:** 2069 (70.3%)
 
 ### Heuristic Findings
 
@@ -1497,10 +1560,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907181
 
-**Block Hash:** `00000000000000000000394fe616fb6cbfa675bbc96220531000ad39b6a12493`  
-**Height:** 907181  
-**Transactions:** 3088  
-**Flagged:** 2648 (85.8%)  
+**Block Hash:** `00000000000000000000394fe616fb6cbfa675bbc96220531000ad39b6a12493`
+
+**Height:** 907181
+
+**Transactions:** 3088
+
+**Flagged:** 2648 (85.8%)
 
 ### Heuristic Findings
 
@@ -1566,10 +1632,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907120
 
-**Block Hash:** `00000000000000000000cfe38a9ecc63e1b217785af07046a3bd9e33d93c3e27`  
-**Height:** 907120  
-**Transactions:** 2175  
-**Flagged:** 1687 (77.6%)  
+**Block Hash:** `00000000000000000000cfe38a9ecc63e1b217785af07046a3bd9e33d93c3e27`
+
+**Height:** 907120
+
+**Transactions:** 2175
+
+**Flagged:** 1687 (77.6%)
 
 ### Heuristic Findings
 
@@ -1635,10 +1704,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907172
 
-**Block Hash:** `00000000000000000001bba003500766521c1f93fad4ca66bfaec4089d31878e`  
-**Height:** 907172  
-**Transactions:** 3554  
-**Flagged:** 3067 (86.3%)  
+**Block Hash:** `00000000000000000001bba003500766521c1f93fad4ca66bfaec4089d31878e`
+
+**Height:** 907172
+
+**Transactions:** 3554
+
+**Flagged:** 3067 (86.3%)
 
 ### Heuristic Findings
 
@@ -1704,10 +1776,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907168
 
-**Block Hash:** `00000000000000000001a593d1e0c729b7d5995cb6dd599b470c575f95710f3b`  
-**Height:** 907168  
-**Transactions:** 2262  
-**Flagged:** 1217 (53.8%)  
+**Block Hash:** `00000000000000000001a593d1e0c729b7d5995cb6dd599b470c575f95710f3b`
+
+**Height:** 907168
+
+**Transactions:** 2262
+
+**Flagged:** 1217 (53.8%)
 
 ### Heuristic Findings
 
@@ -1773,10 +1848,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907186
 
-**Block Hash:** `000000000000000000007816c53bcfed665f449da7ff0b989f9c5c091d07e8bf`  
-**Height:** 907186  
-**Transactions:** 2920  
-**Flagged:** 2182 (74.7%)  
+**Block Hash:** `000000000000000000007816c53bcfed665f449da7ff0b989f9c5c091d07e8bf`
+
+**Height:** 907186
+
+**Transactions:** 2920
+
+**Flagged:** 2182 (74.7%)
 
 ### Heuristic Findings
 
@@ -1842,10 +1920,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907171
 
-**Block Hash:** `000000000000000000013d1c4002436be4e7bee69a74072f483a010ebbb7f705`  
-**Height:** 907171  
-**Transactions:** 2762  
-**Flagged:** 2085 (75.5%)  
+**Block Hash:** `000000000000000000013d1c4002436be4e7bee69a74072f483a010ebbb7f705`
+
+**Height:** 907171
+
+**Transactions:** 2762
+
+**Flagged:** 2085 (75.5%)
 
 ### Heuristic Findings
 
@@ -1911,10 +1992,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907169
 
-**Block Hash:** `00000000000000000000ebef7bc4d9a6f5f13dee681842124bd070c30bfd5af5`  
-**Height:** 907169  
-**Transactions:** 1382  
-**Flagged:** 892 (64.5%)  
+**Block Hash:** `00000000000000000000ebef7bc4d9a6f5f13dee681842124bd070c30bfd5af5`
+
+**Height:** 907169
+
+**Transactions:** 1382
+
+**Flagged:** 892 (64.5%)
 
 ### Heuristic Findings
 
@@ -1925,7 +2009,7 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 | `address_reuse` | 0 | 0.0% |
 | `coinjoin` | 12 | 0.9% |
 | `consolidation` | 37 | 2.7% |
-| `self_transfer` | 7 | 0.5% |
+| `self_transfer` | 6 | 0.4% |
 | `peeling_chain` | 480 | 34.7% |
 | `op_return` | 112 | 8.1% |
 | `round_number_payment` | 150 | 10.9% |
@@ -1938,9 +2022,9 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 | batch_payment | 167 | 12.1% |
 | consolidation | 37 | 2.7% |
 | coinjoin | 12 | 0.9% |
-| self_transfer | 6 | 0.4% |
+| self_transfer | 5 | 0.4% |
 | coinbase | 1 | 0.1% |
-| unknown | 245 | 17.7% |
+| unknown | 246 | 17.8% |
 
 ## Fee Rate Distribution (sat/vB)
 
@@ -1980,10 +2064,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907174
 
-**Block Hash:** `000000000000000000008784613498e541405e7d7661faa46c642cc9ae902277`  
-**Height:** 907174  
-**Transactions:** 627  
-**Flagged:** 532 (84.8%)  
+**Block Hash:** `000000000000000000008784613498e541405e7d7661faa46c642cc9ae902277`
+
+**Height:** 907174
+
+**Transactions:** 627
+
+**Flagged:** 532 (84.8%)
 
 ### Heuristic Findings
 
@@ -2049,10 +2136,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907187
 
-**Block Hash:** `00000000000000000001f7c06a236b60be837687099f776f7838ef77b3ee68bc`  
-**Height:** 907187  
-**Transactions:** 3011  
-**Flagged:** 2287 (76.0%)  
+**Block Hash:** `00000000000000000001f7c06a236b60be837687099f776f7838ef77b3ee68bc`
+
+**Height:** 907187
+
+**Transactions:** 3011
+
+**Flagged:** 2287 (76.0%)
 
 ### Heuristic Findings
 
@@ -2118,10 +2208,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907179
 
-**Block Hash:** `00000000000000000000adb472c87a5b369bc1920459c41665052e69bf43dece`  
-**Height:** 907179  
-**Transactions:** 2243  
-**Flagged:** 1654 (73.7%)  
+**Block Hash:** `00000000000000000000adb472c87a5b369bc1920459c41665052e69bf43dece`
+
+**Height:** 907179
+
+**Transactions:** 2243
+
+**Flagged:** 1654 (73.7%)
 
 ### Heuristic Findings
 
@@ -2187,10 +2280,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907188
 
-**Block Hash:** `000000000000000000016689a83ba3a69285f65cb6cbc4273279054e3a3af67b`  
-**Height:** 907188  
-**Transactions:** 3293  
-**Flagged:** 2762 (83.9%)  
+**Block Hash:** `000000000000000000016689a83ba3a69285f65cb6cbc4273279054e3a3af67b`
+
+**Height:** 907188
+
+**Transactions:** 3293
+
+**Flagged:** 2762 (83.9%)
 
 ### Heuristic Findings
 
@@ -2255,10 +2351,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907184
 
-**Block Hash:** `000000000000000000020cad25005a49d125abb3a26d7dd6a834c2578eb50d6c`  
-**Height:** 907184  
-**Transactions:** 3682  
-**Flagged:** 2843 (77.2%)  
+**Block Hash:** `000000000000000000020cad25005a49d125abb3a26d7dd6a834c2578eb50d6c`
+
+**Height:** 907184
+
+**Transactions:** 3682
+
+**Flagged:** 2843 (77.2%)
 
 ### Heuristic Findings
 
@@ -2323,10 +2422,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907199
 
-**Block Hash:** `00000000000000000000a4b1cede1eba74d67df322ca415468f277aa7b508f47`  
-**Height:** 907199  
-**Transactions:** 4425  
-**Flagged:** 3997 (90.3%)  
+**Block Hash:** `00000000000000000000a4b1cede1eba74d67df322ca415468f277aa7b508f47`
+
+**Height:** 907199
+
+**Transactions:** 4425
+
+**Flagged:** 3997 (90.3%)
 
 ### Heuristic Findings
 
@@ -2392,10 +2494,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907201
 
-**Block Hash:** `00000000000000000000f51b25ec47cc19c935ae8397941225704ebb7c3dacf0`  
-**Height:** 907201  
-**Transactions:** 6  
-**Flagged:** 6 (100.0%)  
+**Block Hash:** `00000000000000000000f51b25ec47cc19c935ae8397941225704ebb7c3dacf0`
+
+**Height:** 907201
+
+**Transactions:** 6
+
+**Flagged:** 6 (100.0%)
 
 ### Heuristic Findings
 
@@ -2440,10 +2545,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907144
 
-**Block Hash:** `0000000000000000000114f790722e1190054c979260af659880cfcbb34793a3`  
-**Height:** 907144  
-**Transactions:** 4376  
-**Flagged:** 4134 (94.5%)  
+**Block Hash:** `0000000000000000000114f790722e1190054c979260af659880cfcbb34793a3`
+
+**Height:** 907144
+
+**Transactions:** 4376
+
+**Flagged:** 4134 (94.5%)
 
 ### Heuristic Findings
 
@@ -2454,7 +2562,7 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 | `address_reuse` | 0 | 0.0% |
 | `coinjoin` | 14 | 0.3% |
 | `consolidation` | 23 | 0.5% |
-| `self_transfer` | 4 | 0.1% |
+| `self_transfer` | 5 | 0.1% |
 | `peeling_chain` | 3891 | 88.9% |
 | `op_return` | 3594 | 82.1% |
 | `round_number_payment` | 87 | 2.0% |
@@ -2509,10 +2617,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907178
 
-**Block Hash:** `00000000000000000000334e1067c0840fe7aea5042e33d577f4ea2f25053ccc`  
-**Height:** 907178  
-**Transactions:** 3349  
-**Flagged:** 2484 (74.2%)  
+**Block Hash:** `00000000000000000000334e1067c0840fe7aea5042e33d577f4ea2f25053ccc`
+
+**Height:** 907178
+
+**Transactions:** 3349
+
+**Flagged:** 2484 (74.2%)
 
 ### Heuristic Findings
 
@@ -2578,10 +2689,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907191
 
-**Block Hash:** `00000000000000000001de0bee49d22a48b5b60bb57f1665b672a3e72f2a6dca`  
-**Height:** 907191  
-**Transactions:** 3723  
-**Flagged:** 2906 (78.1%)  
+**Block Hash:** `00000000000000000001de0bee49d22a48b5b60bb57f1665b672a3e72f2a6dca`
+
+**Height:** 907191
+
+**Transactions:** 3723
+
+**Flagged:** 2906 (78.1%)
 
 ### Heuristic Findings
 
@@ -2647,10 +2761,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907200
 
-**Block Hash:** `00000000000000000000ff0d4891e68cbfdd855050140eb359aec80231b6644d`  
-**Height:** 907200  
-**Transactions:** 4532  
-**Flagged:** 4025 (88.8%)  
+**Block Hash:** `00000000000000000000ff0d4891e68cbfdd855050140eb359aec80231b6644d`
+
+**Height:** 907200
+
+**Transactions:** 4532
+
+**Flagged:** 4025 (88.8%)
 
 ### Heuristic Findings
 
@@ -2716,10 +2833,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907153
 
-**Block Hash:** `000000000000000000004856b729177bc7d142e8ae42f92af37d7be71039acf4`  
-**Height:** 907153  
-**Transactions:** 3620  
-**Flagged:** 3271 (90.4%)  
+**Block Hash:** `000000000000000000004856b729177bc7d142e8ae42f92af37d7be71039acf4`
+
+**Height:** 907153
+
+**Transactions:** 3620
+
+**Flagged:** 3271 (90.4%)
 
 ### Heuristic Findings
 
@@ -2785,10 +2905,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907195
 
-**Block Hash:** `000000000000000000018c308bf5a7c0d81515f2c56f01b0de8c134fc957ed7b`  
-**Height:** 907195  
-**Transactions:** 4654  
-**Flagged:** 4116 (88.4%)  
+**Block Hash:** `000000000000000000018c308bf5a7c0d81515f2c56f01b0de8c134fc957ed7b`
+
+**Height:** 907195
+
+**Transactions:** 4654
+
+**Flagged:** 4116 (88.4%)
 
 ### Heuristic Findings
 
@@ -2854,10 +2977,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907176
 
-**Block Hash:** `000000000000000000018d4e3381b90a6b1c9d6c73ddf087bb6c635858e47042`  
-**Height:** 907176  
-**Transactions:** 5095  
-**Flagged:** 5090 (99.9%)  
+**Block Hash:** `000000000000000000018d4e3381b90a6b1c9d6c73ddf087bb6c635858e47042`
+
+**Height:** 907176
+
+**Transactions:** 5095
+
+**Flagged:** 5090 (99.9%)
 
 ### Heuristic Findings
 
@@ -2922,10 +3048,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907190
 
-**Block Hash:** `00000000000000000000174f7647adf67d461ed8cd3e59b144feb5796ee6775a`  
-**Height:** 907190  
-**Transactions:** 2340  
-**Flagged:** 1733 (74.1%)  
+**Block Hash:** `00000000000000000000174f7647adf67d461ed8cd3e59b144feb5796ee6775a`
+
+**Height:** 907190
+
+**Transactions:** 2340
+
+**Flagged:** 1733 (74.1%)
 
 ### Heuristic Findings
 
@@ -2936,7 +3065,7 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 | `address_reuse` | 0 | 0.0% |
 | `coinjoin` | 50 | 2.1% |
 | `consolidation` | 62 | 2.6% |
-| `self_transfer` | 7 | 0.3% |
+| `self_transfer` | 8 | 0.3% |
 | `peeling_chain` | 977 | 41.8% |
 | `op_return` | 94 | 4.0% |
 | `round_number_payment` | 238 | 10.2% |
@@ -2991,10 +3120,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907203
 
-**Block Hash:** `000000000000000000019fe09be7a4430cd9e2ef3abcbdd264f6a477f6d9a733`  
-**Height:** 907203  
-**Transactions:** 2995  
-**Flagged:** 1971 (65.8%)  
+**Block Hash:** `000000000000000000019fe09be7a4430cd9e2ef3abcbdd264f6a477f6d9a733`
+
+**Height:** 907203
+
+**Transactions:** 2995
+
+**Flagged:** 1971 (65.8%)
 
 ### Heuristic Findings
 
@@ -3060,17 +3192,20 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907204
 
-**Block Hash:** `00000000000000000000ba6e7d9280e2d785d6c82aad5631367cd413c824ac1b`  
-**Height:** 907204  
-**Transactions:** 5017  
-**Flagged:** 4367 (87.0%)  
+**Block Hash:** `00000000000000000000ba6e7d9280e2d785d6c82aad5631367cd413c824ac1b`
+
+**Height:** 907204
+
+**Transactions:** 5017
+
+**Flagged:** 4367 (87.0%)
 
 ### Heuristic Findings
 
 | Heuristic | Fired On (txs) | % of Block |
 |-----------|---------------|------------|
 | `cioh` | 124 | 2.5% |
-| `change_detection` | 4321 | 86.1% |
+| `change_detection` | 4322 | 86.1% |
 | `address_reuse` | 0 | 0.0% |
 | `coinjoin` | 8 | 0.2% |
 | `consolidation` | 31 | 0.6% |
@@ -3129,10 +3264,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907196
 
-**Block Hash:** `00000000000000000001284bd54fc319fdb7fbc99808f4397773ffcae33f487e`  
-**Height:** 907196  
-**Transactions:** 4486  
-**Flagged:** 4148 (92.5%)  
+**Block Hash:** `00000000000000000001284bd54fc319fdb7fbc99808f4397773ffcae33f487e`
+
+**Height:** 907196
+
+**Transactions:** 4486
+
+**Flagged:** 4148 (92.5%)
 
 ### Heuristic Findings
 
@@ -3198,10 +3336,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907208
 
-**Block Hash:** `000000000000000000015ba1d6d2bd4aef87b88cd33a0f80b0adf993f1017448`  
-**Height:** 907208  
-**Transactions:** 4174  
-**Flagged:** 3636 (87.1%)  
+**Block Hash:** `000000000000000000015ba1d6d2bd4aef87b88cd33a0f80b0adf993f1017448`
+
+**Height:** 907208
+
+**Transactions:** 4174
+
+**Flagged:** 3636 (87.1%)
 
 ### Heuristic Findings
 
@@ -3266,10 +3407,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907159
 
-**Block Hash:** `00000000000000000000f21de756a29dca40b2f052a86d587bbb1f8ec46a1dd0`  
-**Height:** 907159  
-**Transactions:** 2982  
-**Flagged:** 2260 (75.8%)  
+**Block Hash:** `00000000000000000000f21de756a29dca40b2f052a86d587bbb1f8ec46a1dd0`
+
+**Height:** 907159
+
+**Transactions:** 2982
+
+**Flagged:** 2260 (75.8%)
 
 ### Heuristic Findings
 
@@ -3334,17 +3478,20 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907206
 
-**Block Hash:** `0000000000000000000230fd85a89b40c5470c7b6a33ac9355289fd5608e8312`  
-**Height:** 907206  
-**Transactions:** 3734  
-**Flagged:** 3332 (89.2%)  
+**Block Hash:** `0000000000000000000230fd85a89b40c5470c7b6a33ac9355289fd5608e8312`
+
+**Height:** 907206
+
+**Transactions:** 3734
+
+**Flagged:** 3332 (89.2%)
 
 ### Heuristic Findings
 
 | Heuristic | Fired On (txs) | % of Block |
 |-----------|---------------|------------|
 | `cioh` | 365 | 9.8% |
-| `change_detection` | 3175 | 85.0% |
+| `change_detection` | 3174 | 85.0% |
 | `address_reuse` | 0 | 0.0% |
 | `coinjoin` | 49 | 1.3% |
 | `consolidation` | 64 | 1.7% |
@@ -3402,10 +3549,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907192
 
-**Block Hash:** `00000000000000000000917fdca84b1e7994e19e63d8b0afa0bac966b0d3a93c`  
-**Height:** 907192  
-**Transactions:** 3138  
-**Flagged:** 2318 (73.9%)  
+**Block Hash:** `00000000000000000000917fdca84b1e7994e19e63d8b0afa0bac966b0d3a93c`
+
+**Height:** 907192
+
+**Transactions:** 3138
+
+**Flagged:** 2318 (73.9%)
 
 ### Heuristic Findings
 
@@ -3416,7 +3566,7 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 | `address_reuse` | 0 | 0.0% |
 | `coinjoin` | 28 | 0.9% |
 | `consolidation` | 112 | 3.6% |
-| `self_transfer` | 6 | 0.2% |
+| `self_transfer` | 7 | 0.2% |
 | `peeling_chain` | 1293 | 41.2% |
 | `op_return` | 93 | 3.0% |
 | `round_number_payment` | 362 | 11.5% |
@@ -3429,9 +3579,9 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 | batch_payment | 271 | 8.6% |
 | consolidation | 112 | 3.6% |
 | coinjoin | 28 | 0.9% |
-| self_transfer | 3 | 0.1% |
+| self_transfer | 4 | 0.1% |
 | coinbase | 1 | 0.0% |
-| unknown | 536 | 17.1% |
+| unknown | 535 | 17.0% |
 
 ## Fee Rate Distribution (sat/vB)
 
@@ -3471,10 +3621,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907157
 
-**Block Hash:** `00000000000000000000c367bb4d7d1f8baff5ca259173797ae6084bbdeaee60`  
-**Height:** 907157  
-**Transactions:** 3639  
-**Flagged:** 2719 (74.7%)  
+**Block Hash:** `00000000000000000000c367bb4d7d1f8baff5ca259173797ae6084bbdeaee60`
+
+**Height:** 907157
+
+**Transactions:** 3639
+
+**Flagged:** 2719 (74.7%)
 
 ### Heuristic Findings
 
@@ -3540,10 +3693,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907189
 
-**Block Hash:** `00000000000000000000543a25302d20833a9afb91bed2018458945a12228e8b`  
-**Height:** 907189  
-**Transactions:** 4464  
-**Flagged:** 4236 (94.9%)  
+**Block Hash:** `00000000000000000000543a25302d20833a9afb91bed2018458945a12228e8b`
+
+**Height:** 907189
+
+**Transactions:** 4464
+
+**Flagged:** 4236 (94.9%)
 
 ### Heuristic Findings
 
@@ -3609,10 +3765,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907165
 
-**Block Hash:** `00000000000000000000c393f7659335ca7de773717644eff5639ad442dc49d8`  
-**Height:** 907165  
-**Transactions:** 2418  
-**Flagged:** 2062 (85.3%)  
+**Block Hash:** `00000000000000000000c393f7659335ca7de773717644eff5639ad442dc49d8`
+
+**Height:** 907165
+
+**Transactions:** 2418
+
+**Flagged:** 2062 (85.3%)
 
 ### Heuristic Findings
 
@@ -3678,10 +3837,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907211
 
-**Block Hash:** `00000000000000000001f63c070dc161235564b53af28392d7d0b19f4ce67487`  
-**Height:** 907211  
-**Transactions:** 3780  
-**Flagged:** 2307 (61.0%)  
+**Block Hash:** `00000000000000000001f63c070dc161235564b53af28392d7d0b19f4ce67487`
+
+**Height:** 907211
+
+**Transactions:** 3780
+
+**Flagged:** 2307 (61.0%)
 
 ### Heuristic Findings
 
@@ -3747,10 +3909,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907217
 
-**Block Hash:** `00000000000000000001bc0f94834c5231e0fc6ee0f8530eafc112b7051c7f72`  
-**Height:** 907217  
-**Transactions:** 4869  
-**Flagged:** 4492 (92.3%)  
+**Block Hash:** `00000000000000000001bc0f94834c5231e0fc6ee0f8530eafc112b7051c7f72`
+
+**Height:** 907217
+
+**Transactions:** 4869
+
+**Flagged:** 4492 (92.3%)
 
 ### Heuristic Findings
 
@@ -3816,10 +3981,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907198
 
-**Block Hash:** `00000000000000000000086a84d1e079444417af97475cc4a800d9b53628abe8`  
-**Height:** 907198  
-**Transactions:** 3177  
-**Flagged:** 1825 (57.4%)  
+**Block Hash:** `00000000000000000000086a84d1e079444417af97475cc4a800d9b53628abe8`
+
+**Height:** 907198
+
+**Transactions:** 3177
+
+**Flagged:** 1825 (57.4%)
 
 ### Heuristic Findings
 
@@ -3885,10 +4053,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907215
 
-**Block Hash:** `00000000000000000001dbc6fb03e922ad59646f859fbcb4cb6663b94474116b`  
-**Height:** 907215  
-**Transactions:** 3863  
-**Flagged:** 2930 (75.8%)  
+**Block Hash:** `00000000000000000001dbc6fb03e922ad59646f859fbcb4cb6663b94474116b`
+
+**Height:** 907215
+
+**Transactions:** 3863
+
+**Flagged:** 2930 (75.8%)
 
 ### Heuristic Findings
 
@@ -3954,10 +4125,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907202
 
-**Block Hash:** `0000000000000000000100bf521d978db63a1e6695f382c413eda4378dfccac7`  
-**Height:** 907202  
-**Transactions:** 3692  
-**Flagged:** 2801 (75.9%)  
+**Block Hash:** `0000000000000000000100bf521d978db63a1e6695f382c413eda4378dfccac7`
+
+**Height:** 907202
+
+**Transactions:** 3692
+
+**Flagged:** 2801 (75.9%)
 
 ### Heuristic Findings
 
@@ -4023,10 +4197,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907212
 
-**Block Hash:** `00000000000000000000754a5a8b23924b1d7e9d86ad08212382b9b2d96a2a9d`  
-**Height:** 907212  
-**Transactions:** 3293  
-**Flagged:** 2447 (74.3%)  
+**Block Hash:** `00000000000000000000754a5a8b23924b1d7e9d86ad08212382b9b2d96a2a9d`
+
+**Height:** 907212
+
+**Transactions:** 3293
+
+**Flagged:** 2447 (74.3%)
 
 ### Heuristic Findings
 
@@ -4037,7 +4214,7 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 | `address_reuse` | 0 | 0.0% |
 | `coinjoin` | 97 | 2.9% |
 | `consolidation` | 133 | 4.0% |
-| `self_transfer` | 5 | 0.2% |
+| `self_transfer` | 6 | 0.2% |
 | `peeling_chain` | 1303 | 39.6% |
 | `op_return` | 94 | 2.9% |
 | `round_number_payment` | 422 | 12.8% |
@@ -4092,10 +4269,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907216
 
-**Block Hash:** `000000000000000000002cd9b9d87e0f952445cb6a85833f9200a29012b13a28`  
-**Height:** 907216  
-**Transactions:** 4384  
-**Flagged:** 3868 (88.2%)  
+**Block Hash:** `000000000000000000002cd9b9d87e0f952445cb6a85833f9200a29012b13a28`
+
+**Height:** 907216
+
+**Transactions:** 4384
+
+**Flagged:** 3868 (88.2%)
 
 ### Heuristic Findings
 
@@ -4161,17 +4341,20 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907225
 
-**Block Hash:** `0000000000000000000180177d56f748b43eaf879a69250128180b47b2a51cb0`  
-**Height:** 907225  
-**Transactions:** 3808  
-**Flagged:** 3157 (82.9%)  
+**Block Hash:** `0000000000000000000180177d56f748b43eaf879a69250128180b47b2a51cb0`
+
+**Height:** 907225
+
+**Transactions:** 3808
+
+**Flagged:** 3157 (82.9%)
 
 ### Heuristic Findings
 
 | Heuristic | Fired On (txs) | % of Block |
 |-----------|---------------|------------|
 | `cioh` | 506 | 13.3% |
-| `change_detection` | 2935 | 77.1% |
+| `change_detection` | 2936 | 77.1% |
 | `address_reuse` | 0 | 0.0% |
 | `coinjoin` | 53 | 1.4% |
 | `consolidation` | 94 | 2.5% |
@@ -4230,10 +4413,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907194
 
-**Block Hash:** `00000000000000000001fd4187672d1c3d2048c810381c3178b1b1965d4319c7`  
-**Height:** 907194  
-**Transactions:** 3645  
-**Flagged:** 2691 (73.8%)  
+**Block Hash:** `00000000000000000001fd4187672d1c3d2048c810381c3178b1b1965d4319c7`
+
+**Height:** 907194
+
+**Transactions:** 3645
+
+**Flagged:** 2691 (73.8%)
 
 ### Heuristic Findings
 
@@ -4299,10 +4485,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907223
 
-**Block Hash:** `00000000000000000001617b4e601e2c0f56327a0cad5ca9783020c4005757ce`  
-**Height:** 907223  
-**Transactions:** 4671  
-**Flagged:** 4369 (93.5%)  
+**Block Hash:** `00000000000000000001617b4e601e2c0f56327a0cad5ca9783020c4005757ce`
+
+**Height:** 907223
+
+**Transactions:** 4671
+
+**Flagged:** 4369 (93.5%)
 
 ### Heuristic Findings
 
@@ -4368,10 +4557,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907173
 
-**Block Hash:** `00000000000000000000ef47adfd64789a78fa10176bfe2a12780ab017939628`  
-**Height:** 907173  
-**Transactions:** 3248  
-**Flagged:** 2895 (89.1%)  
+**Block Hash:** `00000000000000000000ef47adfd64789a78fa10176bfe2a12780ab017939628`
+
+**Height:** 907173
+
+**Transactions:** 3248
+
+**Flagged:** 2895 (89.1%)
 
 ### Heuristic Findings
 
@@ -4437,10 +4629,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907207
 
-**Block Hash:** `000000000000000000011fb30597f2c6a38bd750f9b03d2dc3a654a95a4278bb`  
-**Height:** 907207  
-**Transactions:** 4645  
-**Flagged:** 4312 (92.8%)  
+**Block Hash:** `000000000000000000011fb30597f2c6a38bd750f9b03d2dc3a654a95a4278bb`
+
+**Height:** 907207
+
+**Transactions:** 4645
+
+**Flagged:** 4312 (92.8%)
 
 ### Heuristic Findings
 
@@ -4506,17 +4701,20 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907214
 
-**Block Hash:** `00000000000000000001b817da306ae133f9a76dd7ca3fcff96f9c3f17638373`  
-**Height:** 907214  
-**Transactions:** 3404  
-**Flagged:** 2037 (59.8%)  
+**Block Hash:** `00000000000000000001b817da306ae133f9a76dd7ca3fcff96f9c3f17638373`
+
+**Height:** 907214
+
+**Transactions:** 3404
+
+**Flagged:** 2037 (59.8%)
 
 ### Heuristic Findings
 
 | Heuristic | Fired On (txs) | % of Block |
 |-----------|---------------|------------|
 | `cioh` | 231 | 6.8% |
-| `change_detection` | 1953 | 57.4% |
+| `change_detection` | 1954 | 57.4% |
 | `address_reuse` | 0 | 0.0% |
 | `coinjoin` | 22 | 0.6% |
 | `consolidation` | 48 | 1.4% |
@@ -4575,10 +4773,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907218
 
-**Block Hash:** `00000000000000000000320ad7ef961830c6c12c8dfcef824bf50b0f7eabb521`  
-**Height:** 907218  
-**Transactions:** 4346  
-**Flagged:** 4259 (98.0%)  
+**Block Hash:** `00000000000000000000320ad7ef961830c6c12c8dfcef824bf50b0f7eabb521`
+
+**Height:** 907218
+
+**Transactions:** 4346
+
+**Flagged:** 4259 (98.0%)
 
 ### Heuristic Findings
 
@@ -4644,10 +4845,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907220
 
-**Block Hash:** `00000000000000000000b9ca710a2d6c958492c78c4592a7190a5811d92a7718`  
-**Height:** 907220  
-**Transactions:** 4226  
-**Flagged:** 3869 (91.6%)  
+**Block Hash:** `00000000000000000000b9ca710a2d6c958492c78c4592a7190a5811d92a7718`
+
+**Height:** 907220
+
+**Transactions:** 4226
+
+**Flagged:** 3869 (91.6%)
 
 ### Heuristic Findings
 
@@ -4713,10 +4917,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907226
 
-**Block Hash:** `000000000000000000013c7dea3e939ab1e67c7ec7e15e8a677f1acf6e4adabf`  
-**Height:** 907226  
-**Transactions:** 3887  
-**Flagged:** 3420 (88.0%)  
+**Block Hash:** `000000000000000000013c7dea3e939ab1e67c7ec7e15e8a677f1acf6e4adabf`
+
+**Height:** 907226
+
+**Transactions:** 3887
+
+**Flagged:** 3420 (88.0%)
 
 ### Heuristic Findings
 
@@ -4782,10 +4989,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907209
 
-**Block Hash:** `0000000000000000000069fcdb9852550a9b9ddea5e6b022642d79a44febd7e4`  
-**Height:** 907209  
-**Transactions:** 2320  
-**Flagged:** 1720 (74.1%)  
+**Block Hash:** `0000000000000000000069fcdb9852550a9b9ddea5e6b022642d79a44febd7e4`
+
+**Height:** 907209
+
+**Transactions:** 2320
+
+**Flagged:** 1720 (74.1%)
 
 ### Heuristic Findings
 
@@ -4851,10 +5061,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907227
 
-**Block Hash:** `00000000000000000000f03e484ef1ea78ece74f703fda501cef67447fd68949`  
-**Height:** 907227  
-**Transactions:** 4541  
-**Flagged:** 3943 (86.8%)  
+**Block Hash:** `00000000000000000000f03e484ef1ea78ece74f703fda501cef67447fd68949`
+
+**Height:** 907227
+
+**Transactions:** 4541
+
+**Flagged:** 3943 (86.8%)
 
 ### Heuristic Findings
 
@@ -4920,10 +5133,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907234
 
-**Block Hash:** `00000000000000000000f49f1a07ddaf9689e8a3a7a4f623ab4bea41d16135d1`  
-**Height:** 907234  
-**Transactions:** 4861  
-**Flagged:** 4351 (89.5%)  
+**Block Hash:** `00000000000000000000f49f1a07ddaf9689e8a3a7a4f623ab4bea41d16135d1`
+
+**Height:** 907234
+
+**Transactions:** 4861
+
+**Flagged:** 4351 (89.5%)
 
 ### Heuristic Findings
 
@@ -4989,10 +5205,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907228
 
-**Block Hash:** `00000000000000000001434579b1044e516832a3de74a7e791e0c499c7d09919`  
-**Height:** 907228  
-**Transactions:** 4684  
-**Flagged:** 4167 (89.0%)  
+**Block Hash:** `00000000000000000001434579b1044e516832a3de74a7e791e0c499c7d09919`
+
+**Height:** 907228
+
+**Transactions:** 4684
+
+**Flagged:** 4167 (89.0%)
 
 ### Heuristic Findings
 
@@ -5058,10 +5277,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907232
 
-**Block Hash:** `0000000000000000000197aaca42bfe93c9f418d79511ea51d3f54e2ada6bc49`  
-**Height:** 907232  
-**Transactions:** 4690  
-**Flagged:** 4193 (89.4%)  
+**Block Hash:** `0000000000000000000197aaca42bfe93c9f418d79511ea51d3f54e2ada6bc49`
+
+**Height:** 907232
+
+**Transactions:** 4690
+
+**Flagged:** 4193 (89.4%)
 
 ### Heuristic Findings
 
@@ -5127,10 +5349,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907182
 
-**Block Hash:** `00000000000000000000f2aca80f5aa34d525a9545fcce6a64e88e83b88aabcc`  
-**Height:** 907182  
-**Transactions:** 46  
-**Flagged:** 37 (80.4%)  
+**Block Hash:** `00000000000000000000f2aca80f5aa34d525a9545fcce6a64e88e83b88aabcc`
+
+**Height:** 907182
+
+**Transactions:** 46
+
+**Flagged:** 37 (80.4%)
 
 ### Heuristic Findings
 
@@ -5183,10 +5408,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907183
 
-**Block Hash:** `000000000000000000002bab4fbe34e9f2bceda93f051eaf92d049f69718ebc5`  
-**Height:** 907183  
-**Transactions:** 2522  
-**Flagged:** 1910 (75.7%)  
+**Block Hash:** `000000000000000000002bab4fbe34e9f2bceda93f051eaf92d049f69718ebc5`
+
+**Height:** 907183
+
+**Transactions:** 2522
+
+**Flagged:** 1910 (75.7%)
 
 ### Heuristic Findings
 
@@ -5252,10 +5480,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907213
 
-**Block Hash:** `0000000000000000000161ec7ca3d8c99f97297d9d0b11f5bdb8b19c46d3b345`  
-**Height:** 907213  
-**Transactions:** 3240  
-**Flagged:** 2159 (66.6%)  
+**Block Hash:** `0000000000000000000161ec7ca3d8c99f97297d9d0b11f5bdb8b19c46d3b345`
+
+**Height:** 907213
+
+**Transactions:** 3240
+
+**Flagged:** 2159 (66.6%)
 
 ### Heuristic Findings
 
@@ -5321,10 +5552,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907230
 
-**Block Hash:** `000000000000000000012a3b3deb717bd6a0d34da1630cb2df192a4fd07eff8f`  
-**Height:** 907230  
-**Transactions:** 3661  
-**Flagged:** 3007 (82.1%)  
+**Block Hash:** `000000000000000000012a3b3deb717bd6a0d34da1630cb2df192a4fd07eff8f`
+
+**Height:** 907230
+
+**Transactions:** 3661
+
+**Flagged:** 3007 (82.1%)
 
 ### Heuristic Findings
 
@@ -5389,10 +5623,13 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 
 ## Block #907233
 
-**Block Hash:** `00000000000000000001b99fbf9d256174a28bf7e2fc351957a881501da2f10e`  
-**Height:** 907233  
-**Transactions:** 4410  
-**Flagged:** 3533 (80.1%)  
+**Block Hash:** `00000000000000000001b99fbf9d256174a28bf7e2fc351957a881501da2f10e`
+
+**Height:** 907233
+
+**Transactions:** 4410
+
+**Flagged:** 3533 (80.1%)
 
 ### Heuristic Findings
 
