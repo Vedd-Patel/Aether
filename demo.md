@@ -2,7 +2,7 @@
 
 **Source file:** `blk05051.dat`
 
-**Generated:** 2026-03-14 17:02:32 UTC
+**Generated:** 2026-03-14 17:08:26 UTC
 
 **Blocks in file:** 78
 
@@ -64,16 +64,16 @@
 | 6 | `raw:29368408ae31` | 14 | 1 |
 | 7 | `pkh:ec691c0014a3` | 14 | 1 |
 | 8 | `raw:001e312697b7` | 9 | 1 |
-| 9 | `raw:173953eddd66` | 8 | 1 |
-| 10 | `raw:8c0c97933b1b` | 8 | 1 |
-| 11 | `raw:1c001427ac4d` | 8 | 1 |
-| 12 | `raw:e287b423dccd` | 8 | 1 |
-| 13 | `raw:b2b401eddd7a` | 8 | 1 |
-| 14 | `raw:b570bfe7d59a` | 8 | 1 |
-| 15 | `raw:98edcb440089` | 7 | 1 |
-| 16 | `raw:7297005c9582` | 7 | 1 |
-| 17 | `raw:044d7542fd81` | 7 | 1 |
-| 18 | `raw:008697651c00` | 7 | 1 |
+| 9 | `raw:e287b423dccd` | 8 | 1 |
+| 10 | `raw:1c001427ac4d` | 8 | 1 |
+| 11 | `raw:b570bfe7d59a` | 8 | 1 |
+| 12 | `raw:b2b401eddd7a` | 8 | 1 |
+| 13 | `raw:8c0c97933b1b` | 8 | 1 |
+| 14 | `raw:173953eddd66` | 8 | 1 |
+| 15 | `raw:044d7542fd81` | 7 | 1 |
+| 16 | `raw:008697651c00` | 7 | 1 |
+| 17 | `raw:7297005c9582` | 7 | 1 |
+| 18 | `raw:98edcb440089` | 7 | 1 |
 | 19 | `raw:b7e9343d11eb` | 6 | 1 |
 | 20 | `pkh:2f1c0014ff65` | 6 | 1 |
 
@@ -213,7 +213,7 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 | `address_reuse` | 0 | 0.0% |
 | `coinjoin` | 40 | 1.0% |
 | `consolidation` | 131 | 3.3% |
-| `self_transfer` | 10 | 0.3% |
+| `self_transfer` | 9 | 0.2% |
 | `peeling_chain` | 1739 | 43.7% |
 | `op_return` | 89 | 2.2% |
 | `round_number_payment` | 538 | 13.5% |
@@ -425,7 +425,7 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 | Heuristic | Fired On (txs) | % of Block |
 |-----------|---------------|------------|
 | `cioh` | 392 | 25.0% |
-| `change_detection` | 1044 | 66.7% |
+| `change_detection` | 1043 | 66.6% |
 | `address_reuse` | 0 | 0.0% |
 | `coinjoin` | 23 | 1.5% |
 | `consolidation` | 55 | 3.5% |
@@ -501,7 +501,7 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 | `address_reuse` | 0 | 0.0% |
 | `coinjoin` | 22 | 0.7% |
 | `consolidation` | 107 | 3.6% |
-| `self_transfer` | 9 | 0.3% |
+| `self_transfer` | 7 | 0.2% |
 | `peeling_chain` | 1195 | 40.3% |
 | `op_return` | 210 | 7.1% |
 | `round_number_payment` | 356 | 12.0% |
@@ -716,7 +716,7 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 | `address_reuse` | 0 | 0.0% |
 | `coinjoin` | 46 | 1.6% |
 | `consolidation` | 115 | 3.9% |
-| `self_transfer` | 7 | 0.2% |
+| `self_transfer` | 6 | 0.2% |
 | `peeling_chain` | 1160 | 39.6% |
 | `op_return` | 261 | 8.9% |
 | `round_number_payment` | 333 | 11.4% |
@@ -1147,7 +1147,7 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 | `address_reuse` | 0 | 0.0% |
 | `coinjoin` | 60 | 1.5% |
 | `consolidation` | 112 | 2.8% |
-| `self_transfer` | 15 | 0.4% |
+| `self_transfer` | 14 | 0.4% |
 | `peeling_chain` | 1601 | 40.3% |
 | `op_return` | 91 | 2.3% |
 | `round_number_payment` | 526 | 13.2% |
@@ -3209,7 +3209,7 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 | `address_reuse` | 0 | 0.0% |
 | `coinjoin` | 8 | 0.2% |
 | `consolidation` | 31 | 0.6% |
-| `self_transfer` | 4 | 0.1% |
+| `self_transfer` | 3 | 0.1% |
 | `peeling_chain` | 4080 | 81.3% |
 | `op_return` | 3942 | 78.6% |
 | `round_number_payment` | 83 | 1.7% |
@@ -3491,7 +3491,7 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 | Heuristic | Fired On (txs) | % of Block |
 |-----------|---------------|------------|
 | `cioh` | 365 | 9.8% |
-| `change_detection` | 3174 | 85.0% |
+| `change_detection` | 3175 | 85.0% |
 | `address_reuse` | 0 | 0.0% |
 | `coinjoin` | 49 | 1.3% |
 | `consolidation` | 64 | 1.7% |
@@ -3566,7 +3566,7 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 | `address_reuse` | 0 | 0.0% |
 | `coinjoin` | 28 | 0.9% |
 | `consolidation` | 112 | 3.6% |
-| `self_transfer` | 7 | 0.2% |
+| `self_transfer` | 6 | 0.2% |
 | `peeling_chain` | 1293 | 41.2% |
 | `op_return` | 93 | 3.0% |
 | `round_number_payment` | 362 | 11.5% |
@@ -4354,7 +4354,7 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 | Heuristic | Fired On (txs) | % of Block |
 |-----------|---------------|------------|
 | `cioh` | 506 | 13.3% |
-| `change_detection` | 2936 | 77.1% |
+| `change_detection` | 2935 | 77.1% |
 | `address_reuse` | 0 | 0.0% |
 | `coinjoin` | 53 | 1.4% |
 | `consolidation` | 94 | 2.5% |
@@ -4646,7 +4646,7 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 | `address_reuse` | 0 | 0.0% |
 | `coinjoin` | 26 | 0.6% |
 | `consolidation` | 39 | 0.8% |
-| `self_transfer` | 7 | 0.2% |
+| `self_transfer` | 6 | 0.1% |
 | `peeling_chain` | 3902 | 84.0% |
 | `op_return` | 3503 | 75.4% |
 | `round_number_payment` | 125 | 2.7% |
@@ -4714,11 +4714,11 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 | Heuristic | Fired On (txs) | % of Block |
 |-----------|---------------|------------|
 | `cioh` | 231 | 6.8% |
-| `change_detection` | 1954 | 57.4% |
+| `change_detection` | 1953 | 57.4% |
 | `address_reuse` | 0 | 0.0% |
 | `coinjoin` | 22 | 0.6% |
 | `consolidation` | 48 | 1.4% |
-| `self_transfer` | 7 | 0.2% |
+| `self_transfer` | 6 | 0.2% |
 | `peeling_chain` | 1681 | 49.4% |
 | `op_return` | 1400 | 41.1% |
 | `round_number_payment` | 121 | 3.6% |
@@ -5640,7 +5640,7 @@ _… 30 more clusters not shown. See `entity_clusters` in the JSON report._
 | `address_reuse` | 0 | 0.0% |
 | `coinjoin` | 55 | 1.2% |
 | `consolidation` | 49 | 1.1% |
-| `self_transfer` | 9 | 0.2% |
+| `self_transfer` | 8 | 0.2% |
 | `peeling_chain` | 2692 | 61.0% |
 | `op_return` | 2370 | 53.7% |
 | `round_number_payment` | 239 | 5.4% |
